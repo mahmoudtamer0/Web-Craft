@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Web-Craft/static/css/main.3273bb24.css",
+    "main.js": "/Web-Craft/static/js/main.f0130574.js",
+    "static/js/787.a8940ef5.chunk.js": "/Web-Craft/static/js/787.a8940ef5.chunk.js",
+    "static/media/pn 1.png": "/Web-Craft/static/media/pn 1.04352ed9f8ebdd6fea21.png",
+    "index.html": "/Web-Craft/index.html",
+    "main.3273bb24.css.map": "/Web-Craft/static/css/main.3273bb24.css.map",
+    "main.f0130574.js.map": "/Web-Craft/static/js/main.f0130574.js.map",
+    "787.a8940ef5.chunk.js.map": "/Web-Craft/static/js/787.a8940ef5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3273bb24.css",
+    "static/js/main.f0130574.js"
+  ]
+}
