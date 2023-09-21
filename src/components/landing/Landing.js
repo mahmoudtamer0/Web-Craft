@@ -7,14 +7,14 @@ const Landing = () => {
 
             <div className='container'>
                 <div className='row align-items-center justify-content-between'>
-                    <div className='col-lg-6'>
+                    <div className='landing-text col-lg-6'>
                         <div>
                             <h3>Get your own</h3>
                             <h3 className='active-h3'>Professional-Looking</h3>
                             <h3>Website Now </h3>
                         </div>
                         <div>
-                            <p>we serve Branding, UI/UX Design,websites,   E-commerce,and web apps</p>
+                            <p>we serve Branding, UI/UX Design, websites, E-commerce, and web apps</p>
                         </div>
                         <div>
                             <button>order now</button>
