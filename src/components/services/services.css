@@ -32,6 +32,8 @@
     font-weight: 400;
     line-height: normal;
     padding: 0 10px;
+    width: 85%;
+    margin: auto;
 }
 
 .services img {
