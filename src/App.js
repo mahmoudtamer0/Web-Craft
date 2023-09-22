@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/Web-Craft">
         <Navbar />
         <Routes>
           <Route path="/" element=
