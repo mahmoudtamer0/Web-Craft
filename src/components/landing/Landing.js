@@ -16,7 +16,7 @@ const Landing = () => {
                         <div>
                             <p>we serve Branding, UI/UX Design, websites, E-commerce, and web apps</p>
                         </div>
-                        <div>
+                        <div className='mt-5'>
                             <button>order now</button>
                         </div>
                     </div>
